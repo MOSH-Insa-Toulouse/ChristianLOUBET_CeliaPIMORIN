@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name ltc105dacn6#pbf)(type Legacy)(uri //netapp2/pimorin/kiCad/Shield/shield_/ltc105dacn6#pbf.lib)(options "")(descr ""))
+  (lib (name oled_0.91)(type Legacy)(uri //netapp2/pimorin/kiCad/Shield/shield_/oled_0.91.lib)(options "")(descr ""))
+  (lib (name bluetooth-hc05)(type Legacy)(uri //netapp2/pimorin/kiCad/Shield/shield_/bluetooth-hc05.lib)(options "")(descr ""))
+  (lib (name ky-040)(type Legacy)(uri //netapp2/pimorin/kiCad/Shield/shield_/ky-040.lib)(options "")(descr ""))
+  (lib (name shield_-rescue)(type Legacy)(uri ${KIPRJMOD}/shield_-rescue.lib)(options "")(descr ""))
+)

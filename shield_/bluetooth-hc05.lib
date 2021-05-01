@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Bluetooth-HC05
+#
+DEF Bluetooth-HC05 U3 0 40 Y Y 1 F N
+F0 "U3" 200 150 50 H V C CNN
+F1 "Bluetooth-HC05" 250 50 50 H V C CNN
+F2 "" 150 100 50 H I C CNN
+F3 "" 150 100 50 H I C CNN
+DRAW
+S -700 250 600 -300 0 1 0 N
+X VCC 1 -700 100 100 R 50 50 1 1 I
+X GND 2 -700 0 100 R 50 50 1 1 I
+X TX_TO_RX_(Arduino) 3 -700 -100 100 R 50 50 1 1 I
+X RX_to_TX_(Arduino) 4 -700 -200 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
