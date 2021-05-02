@@ -6,7 +6,7 @@ Le 25 janvier 2021, nous avons commencé le projet «du capteur au banc de test 
 
 # 2. Capteur Graphite
 
-![Image of Schéma du principe de fonctionnement du capteur](explications capteur.png)
+![Image of Schéma du principe de fonctionnement du capteur](https://github.com/MOSH-Insa-Toulouse/ChristianLOUBET_CeliaPIMORIN/blob/main/explications%20capteur.png)
 
 La résistance du capteur graphite: Sur le papier est déposé du graphite, des atomes de carbones sont donc à la surface du papier, il y a une distance a entre chacun des atomes. Quand le capteur subit une déformation, sa longueur L s’agrandit/diminue et il en va de même pour la distance a entre les atomes. La déformation du capteur papier fait varier la résistance du capteur, car la longueur du capteur et la distance entre les atomes varie elle aussi. La sensibilité du capteur est très grande car elle dépend de l'effet tunnel qui dépend exponentiellement de la ditance entre le particules. Nos capteurs papier ont une zone nominale d’emploi, il ne faut pas trop déformer les capteurs(la déformation ne doit dépasser les 1 %).Les mines de crayon les plus dures(9H, 7H, 5H...) contiennent une proportion plus élevée de colle argileuse tandis que les mines les plus molles (5B,7B, 9B...) ont une proportion de particules de graphite, moins il y a de graphite sur le papier et plus la résistance du capteur augmente. 
 
